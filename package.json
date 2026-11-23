@@ -1,5 +1,5 @@
 {
-  "name": "gb68-md5-predict-api",
+  "name": "gb68-tx-predict-api",
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
