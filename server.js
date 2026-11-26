@@ -11,7 +11,7 @@ app.use(cors());
 app.use(express.json());
 
 // Link API lịch sử gốc
-const HISTORY_MD5_URL = 'http://103.249.117.229:17227/api/68gb/vhmd5';
+const HISTORY_MD5_URL = '';
 const HISTORY_TX_URL = 'http://103.249.117.229:17227/api/68gb/vhtx';
 
 /**
